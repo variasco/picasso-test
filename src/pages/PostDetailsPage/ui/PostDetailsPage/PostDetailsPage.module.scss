@@ -1,0 +1,16 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.postCard {
+  display: flex;
+  width: 700px;
+}
+
+.userCard {
+  display: flex;
+  justify-content: center;
+  width: 350px;
+}
